@@ -1,11 +1,11 @@
 package md.purice.sfgpetclinic.services.map;
 
 import md.purice.sfgpetclinic.model.Pet;
-import md.purice.sfgpetclinic.services.CrudService;
+import md.purice.sfgpetclinic.services.PetService;
 
 import java.util.Set;
 
-public class PetServiceMap extends AbstractMapService<Pet, Long> implements CrudService<Pet, Long> {
+public class PetServiceMap extends AbstractMapService<Pet, Long> implements PetService {
 
     @Override
     public Set<Pet> findAll() {
