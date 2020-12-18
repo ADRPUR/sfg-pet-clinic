@@ -1,5 +1,9 @@
+md\purice\sfgpetclinic\formatters\PetTypeFormatter.class
 md\purice\sfgpetclinic\controllers\IndexController.class
+md\purice\sfgpetclinic\controllers\VisitController$1.class
 md\purice\sfgpetclinic\SfgPetClinicApplication.class
 md\purice\sfgpetclinic\controllers\OwnerController.class
 md\purice\sfgpetclinic\bootstrap\DataLoader.class
+md\purice\sfgpetclinic\controllers\VisitController.class
+md\purice\sfgpetclinic\controllers\PetController.class
 md\purice\sfgpetclinic\controllers\VetController.class
